@@ -1,0 +1,32 @@
+[26-Apr-2021 16:24:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:24:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:25:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:25:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 10
+[26-Apr-2021 16:25:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:25:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 10
+[26-Apr-2021 16:26:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:26:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
+[26-Apr-2021 16:27:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
+[26-Apr-2021 16:28:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:28:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 12
+[26-Apr-2021 16:28:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:28:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 12
+[26-Apr-2021 16:28:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:28:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 12
+[26-Apr-2021 16:28:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:28:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 13
+[26-Apr-2021 16:29:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:29:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 10
+[26-Apr-2021 16:29:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:29:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 10
+[26-Apr-2021 16:30:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:30:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
+[26-Apr-2021 16:30:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:30:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
+[26-Apr-2021 16:32:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:32:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
+[26-Apr-2021 16:33:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:33:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
+[26-Apr-2021 16:34:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aniknand/public_html/admin/login-post.php on line 4
+[26-Apr-2021 16:34:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aniknand/public_html/dashboard/inc/db.php:4) in /home/aniknand/public_html/admin/login-post.php on line 11
